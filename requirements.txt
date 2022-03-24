@@ -97,7 +97,7 @@
 
 
 rasa==2.8.0
-rasa-sdk==2.8.4
+#rasa-sdk==2.8.4
 ujson==4.3.0
 
 
